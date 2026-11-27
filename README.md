@@ -2,6 +2,6 @@
 
 Predstavitev za četrti del naloge. Prikazuje moj GitHub profil, repozitorija, kaj sem ustvaril in kaj sem se naučil.
 
-**[Odpri predstavitev v Canvi](https://www.canva.com/d/izyZH2tOY43kAqT)**
+**[Odpri predstavitev v Canvi](https://www.canva.com/d/zBDp7BsafN9FuoL)**
 
-Predstavitev vsebuje 5 diapozitivov. Za ogled v Canvi mora biti povezava nastavljena na **Anyone with the link – Can view**.
+Predstavitev vsebuje 5 diapozitivov. Preveri, da je Canva povezava nastavljena na **Anyone with the link – Can view**, da si jo profesor lahko ogleda.
